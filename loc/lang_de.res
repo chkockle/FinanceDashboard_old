@@ -164,3 +164,4 @@ res_3010=Einträge angezeigt)
 res_3011=Migration wurde bereits durchgeführt. Keine erneute Migration möglich.
 res_3012=Eintrag existiert bereits für diesen Tag, kein weiterer Eintrag möglich.
 res_3013=Kein Crypto API Key zur Abfrage von Kursen gefunden, bitte in den Einstellungen hinterlegen.
+res_3014=Neues Update verfügbar. Soll das Update jetzt eingespielt werden?
