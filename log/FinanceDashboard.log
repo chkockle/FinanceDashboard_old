@@ -1,0 +1,5 @@
+09.04.2020 19:31:39   INFO      CheckForLatestVersion - version in database: 0
+09.04.2020 19:31:40   INFO      CheckForLatestVersion - latest version available: 637220555946895233
+09.04.2020 19:31:40   INFO      CheckForLatestVersion - update necessary
+09.04.2020 19:31:44   INFO      CheckForLatestVersion - update requested: no
+09.04.2020 19:32:09   INFO      BackupDatabase - backup file:D:\Cloud\OneDrive\Finanzen\Finance Dashboard\DEV\v1.5\RELEASE\bkp\FinanceDashboard.accdb_20200409_193209
