@@ -1,0 +1,9 @@
+29.06.2020 12:04:47   INFO      CheckForLatestVersion - version in database: 637261088358259535
+29.06.2020 12:04:47   INFO      CheckForLatestVersion - latest version available: 637261884428335022
+29.06.2020 12:04:47   INFO      CheckForLatestVersion - update necessary
+29.06.2020 12:04:55   INFO      CheckForLatestVersion - update requested: no
+29.06.2020 12:05:01   INFO      CreateDetailCharts - Chart_DetailNetworth: 97,65625 ms
+29.06.2020 12:05:01   INFO      CreateDetailCharts - Chart_DetailSavings: 58,59375 ms
+29.06.2020 12:05:01   INFO      CreateDetailCharts - Chart_TopNSpendingsCategories: 50,78125 ms
+29.06.2020 12:05:01   INFO      CreateDetailCharts - CreatePensionGapChart: 601,5625 ms
+29.06.2020 12:05:07   INFO      BackupDatabase - backup file:D:\Cloud\OneDrive\Finanzen\Finance Dashboard\DEV\v1.5\RELEASE\bkp\FinanceDashboard.accdb_20200629_120507
